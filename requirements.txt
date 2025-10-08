@@ -1,0 +1,13 @@
+streamlit                  # UI and dashboard
+pandas                     # Data handling
+numpy                      # Numerical computations
+requests                   # API calls (NewsAPI, NewsData.io)
+matplotlib                 # Charts and plots
+plotly                     # Interactive visualizations
+wordcloud                   # Word clouds for entities/topics
+nltk                        # Text preprocessing
+spacy                       # NLP, tokenization, lemmatization, NER
+transformers                # Sentiment analysis models
+bertopic                    # Topic modeling and trend identification
+python-dotenv               # Load API keys from .env
+google-generativeai         # Gemini AI client for chatbot
