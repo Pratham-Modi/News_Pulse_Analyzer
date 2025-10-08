@@ -120,7 +120,7 @@ streamlit run app.py
 
 ## 🌐 Supported Languages
 
-**NewsAPI**: en, hi, ar, de, es, fr, he, it, nl, no, pt, ru, sv, ud, zh
+**NewsAPI**: en, hi, ar, de, es, fr, he, it, nl, no, pt, ru, sv, ud, zh  
 **NewsData.io**: en, hi, bn, gu, kn, ml, mr, or, pa, ta, te, ur
 
 ---
