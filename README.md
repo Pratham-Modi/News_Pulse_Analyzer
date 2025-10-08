@@ -1,6 +1,6 @@
 # 📰 News_Pulse_Analyzer
 
-**News_Pulse_Analyzer** is an advanced news analytics platform built with Python and Streamlit. It fetches news from multiple APIs, performs sentiment analysis, named entity recognition, topic modeling, trend detection, and provides an interactive AI chatbot for querying insights.  
+**News_Pulse_Analyzer** is an advanced news analytics platform built with Python and Streamlit. It fetches news from multiple APIs, performs sentiment analysis, named entity recognition, topic modeling, trend detection, and provides an interactive AI chatbot for querying insights
 
 ---
 
