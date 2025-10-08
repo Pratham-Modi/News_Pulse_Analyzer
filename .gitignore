@@ -6,3 +6,4 @@ __pycache__/
 .env
 data/news_cache.json
 venv/
+.markdownlint.json
